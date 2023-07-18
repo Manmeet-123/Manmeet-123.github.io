@@ -36,6 +36,14 @@ export const skills = [
   {
     title: 'Backend',
     skills: [
+       {
+        name: 'Java',
+        image: 'https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png',
+      },
+       {
+        name: 'Spring Boot',
+        image: 'https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png',
+      },
       {
         name: 'Node Js',
         image: 'https://nodejs.org/static/images/logo.svg',
