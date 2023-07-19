@@ -205,6 +205,16 @@ export const projects = [
     category: 'web app',
     github: 'https://github.com/Manmeet-123/Todolists',
   },
+   {
+    id: 4,
+    title: 'Personal Portfolio',
+    date: 'July 2023 - Present',
+    description: "A github webpage to showcase the portfolio. Built as a react app.",
+    image: 'https://www.fusionacademy.com/wp-content/uploads/2022/08/portfolio.jpg',
+    tags: ['React Js', 'HTML', 'Node JS', 'Javascript'],
+    category: 'web app',
+    github: 'https://github.com/Manmeet-123/Manmeet-123.github.io',
+  },
 
 ];
 
