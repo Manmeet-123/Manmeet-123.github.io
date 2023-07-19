@@ -36,6 +36,10 @@ export const skills = [
   {
     title: 'Backend',
     skills: [
+      {
+        name: 'GoLang',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png',
+      },
        {
         name: 'Java',
         image: 'https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png',
