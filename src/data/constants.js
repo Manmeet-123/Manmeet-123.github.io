@@ -90,8 +90,8 @@ export const skills = [
         image: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg',
       },
       {
-        name: 'Netlify',
-        image: 'https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png',
+        name: 'Kubernetes',
+        image: 'https://pbs.twimg.com/card_img/1676965612583788546/zRSqSX3h?format=png&name=small',
       },
       {
         name: 'VS Code',
