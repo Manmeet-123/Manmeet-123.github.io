@@ -94,12 +94,20 @@ export const skills = [
         image: 'https://pbs.twimg.com/card_img/1676965612583788546/zRSqSX3h?format=png&name=small',
       },
       {
+        name: 'Jenkins',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png',
+      },
+      {
         name: 'VS Code',
         image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519',
       },
       {
         name: 'Postman',
         image: 'https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667',
+      },
+       {
+        name: 'AWS',
+        image: 'https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1a/33/61/1a336147-5565-79c8-a1ec-513647befed7/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png'    
       },
     ],
   },
