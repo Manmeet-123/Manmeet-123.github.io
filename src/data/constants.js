@@ -3,7 +3,7 @@ export const Bio = {
   roles: ["Software Engineer", "Backend Engineer", "Full Stack Developer"],
   description: "A passionate software engineer specializing in backend engineering, full stack development, distributed computing, and scalable applications. Possesses a deep enthusiasm for designing and implementing robust, efficient, and reliable software solutions.",
   github: "https://github.com/Manmeet-123",
-  resume: "https://drive.google.com/file/d/1AmTpj5gONn1zW8iVyjNtZkP7YcAAR9HG/view?usp=sharing",
+  //resume: "https://drive.google.com/file/d/1AmTpj5gONn1zW8iVyjNtZkP7YcAAR9HG/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/manmeet-singh-365047127/",
 }
 
